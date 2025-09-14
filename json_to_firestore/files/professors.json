@@ -1,0 +1,488 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Maya Patel",
+    "specializations": ["Mathematics", "Applied Statistics"],
+    "qualifications": ["Ph.D. in Statistics", "M.Sc. in Mathematics"],
+    "research": ["Time-series analysis in climate models", "Statistical learning"],
+    "research_papers": [
+      {
+        "title": "Time Series Forecasting Techniques for Climate Trend Prediction",
+        "link": "https://www.researchgate.net/publication/380365690_Time_Series_Forecasting_Techniques_for_Climate_Trend_Prediction"
+      },
+      {
+        "title": "Trend analysis of climate time series: A review of methods",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0012825218303726"
+      }
+    ],
+    "contact": {"email": "maya.patel@university.edu", "phone": "+91-9876543210"},
+    "office": "Room 210, Dept. of Mathematics, University of Patiala",
+    "availability": {
+      "Monday": "10:00 AM - 12:00 PM",
+      "Tuesday": "2:00 PM - 4:00 PM",
+      "Wednesday": "10:00 AM - 12:00 PM",
+      "Thursday": "2:00 PM - 4:00 PM",
+      "Friday": "10:00 AM - 11:30 AM"
+    },
+    "image": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Prof. Rajesh Kumar",
+    "specializations": ["Computer Science", "Machine Learning"],
+    "qualifications": ["Ph.D. in Computer Science", "M.Tech in Artificial Intelligence"],
+    "research": ["Deep learning algorithms", "Natural language processing"],
+    "research_papers": [
+      {
+        "title": "A Survey on Deep Learning Techniques",
+        "link": "https://arxiv.org/abs/2104.00123"
+      },
+      {
+        "title": "Advances in Natural Language Processing",
+        "link": "https://www.jmlr.org/papers/volume21/20-111/20-111.pdf"
+      }
+    ],
+    "contact": {"email": "rajesh.kumar@university.edu", "phone": "+91-9876543221"},
+    "office": "Room 305, Dept. of Computer Science, University of Patiala",
+    "availability": {
+      "Monday": "9:00 AM - 11:00 AM",
+      "Wednesday": "1:00 PM - 3:00 PM",
+      "Friday": "9:00 AM - 11:00 AM"
+    },
+    "image": "https://randomuser.me/api/portraits/men/38.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Anita Singh",
+    "specializations": ["Physics", "Quantum Mechanics"],
+    "qualifications": ["Ph.D. in Physics", "M.Sc. in Theoretical Physics"],
+    "research": ["Quantum entanglement", "Particle physics experiments"],
+    "research_papers": [
+      {
+        "title": "Quantum Entanglement and Information Theory",
+        "link": "https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.89.025003"
+      },
+      {
+        "title": "Particle Physics at the LHC",
+        "link": "https://cds.cern.ch/record/1234567"
+      }
+    ],
+    "contact": {"email": "anita.singh@university.edu", "phone": "+91-9876543330"},
+    "office": "Room 110, Dept. of Physics, University of Patiala",
+    "availability": {
+      "Tuesday": "10:00 AM - 12:00 PM",
+      "Thursday": "10:00 AM - 12:00 PM",
+      "Friday": "1:00 PM - 3:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/women/16.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Prof. Suresh Mehra",
+    "specializations": ["English Literature", "Creative Writing"],
+    "qualifications": ["Ph.D. in English Literature", "M.A. in English"],
+    "research": ["Postmodern literature", "Narrative theory"],
+    "research_papers": [
+      {
+        "title": "Narrative Structures in Postmodern Novels",
+        "link": "https://www.jstor.org/stable/1234567"
+      },
+      {
+        "title": "Creative Writing Pedagogy",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/14790726.2019.1586710"
+      }
+    ],
+    "contact": {"email": "suresh.mehra@university.edu", "phone": "+91-9876543441"},
+    "office": "Room 215, Dept. of English, University of Patiala",
+    "availability": {
+      "Monday": "11:00 AM - 1:00 PM",
+      "Wednesday": "11:00 AM - 1:00 PM",
+      "Friday": "11:00 AM - 12:30 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/men/52.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Kavita Joshi",
+    "specializations": ["Biology", "Genetics"],
+    "qualifications": ["Ph.D. in Genetics", "M.Sc. in Biology"],
+    "research": ["Gene editing techniques", "Molecular biology"],
+    "research_papers": [
+      {
+        "title": "CRISPR-Cas9 Gene Editing Applications",
+        "link": "https://www.nature.com/articles/s41587-019-0367-3"
+      },
+      {
+        "title": "Molecular Mechanisms in Cell Biology",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S002228361930657X"
+      }
+    ],
+    "contact": {"email": "kavita.joshi@university.edu", "phone": "+91-9876543552"},
+    "office": "Room 120, Dept. of Biology, University of Patiala",
+    "availability": {
+      "Tuesday": "9:00 AM - 11:00 AM",
+      "Thursday": "2:00 PM - 4:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/women/20.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Prof. Arjun Verma",
+    "specializations": ["History", "Cultural Studies"],
+    "qualifications": ["Ph.D. in History", "M.A. in South Asian Studies"],
+    "research": ["Medieval Indian history", "Cultural identity"],
+    "research_papers": [
+      {
+        "title": "Socio-cultural Dynamics in Medieval India",
+        "link": "https://www.jstor.org/stable/9876543"
+      },
+      {
+        "title": "Cultural Identity and History",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/14725886.2016.1145678"
+      }
+    ],
+    "contact": {"email": "arjun.verma@university.edu", "phone": "+91-9876543663"},
+    "office": "Room 330, Dept. of History, University of Patiala",
+    "availability": {
+      "Monday": "2:00 PM - 4:00 PM",
+      "Wednesday": "2:00 PM - 4:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/men/25.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Nisha Gupta",
+    "specializations": ["Chemistry", "Organic Chemistry"],
+    "qualifications": ["Ph.D. in Chemistry", "M.Sc. in Organic Chemistry"],
+    "research": ["Synthesis of organic compounds", "Catalytic reactions"],
+    "research_papers": [
+      {
+        "title": "Advances in Organic Synthesis",
+        "link": "https://pubs.acs.org/doi/10.1021/acs.joc.9b00056"
+      },
+      {
+        "title": "Catalysis in Organic Chemistry",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0040402019311234"
+      }
+    ],
+    "contact": {"email": "nisha.gupta@university.edu", "phone": "+91-9876543774"},
+    "office": "Room 140, Dept. of Chemistry, University of Patiala",
+    "availability": {
+      "Tuesday": "11:00 AM - 1:00 PM",
+      "Thursday": "11:00 AM - 1:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/women/45.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Prof. Amit Bhatia",
+    "specializations": ["Economics", "Developmental Economics"],
+    "qualifications": ["Ph.D. in Economics", "M.A. in Economics"],
+    "research": ["Rural development", "Microfinance impacts"],
+    "research_papers": [
+      {
+        "title": "Microfinance and Rural Development",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0305750X19300245"
+      },
+      {
+        "title": "Economic Growth in Developing Countries",
+        "link": "https://www.jstor.org/stable/24601990"
+      }
+    ],
+    "contact": {"email": "amit.bhatia@university.edu", "phone": "+91-9876543885"},
+    "office": "Room 220, Dept. of Economics, University of Patiala",
+    "availability": {
+      "Monday": "9:00 AM - 11:00 AM",
+      "Thursday": "2:00 PM - 4:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/men/33.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Rekha Sharma",
+    "specializations": ["Psychology", "Behavioral Studies"],
+    "qualifications": ["Ph.D. in Psychology", "M.Sc. in Psychology"],
+    "research": ["Cognitive behavioral therapy", "Child psychology"],
+    "research_papers": [
+      {
+        "title": "Behavioral Therapy Techniques",
+        "link": "https://psycnet.apa.org/fulltext/2019-84562-001.html"
+      },
+      {
+        "title": "Developmental Psychology Studies",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/10473289.2018.1517103"
+      }
+    ],
+    "contact": {"email": "rekha.sharma@university.edu", "phone": "+91-9876543996"},
+    "office": "Room 310, Dept. of Psychology, University of Patiala",
+    "availability": {
+      "Tuesday": "9:00 AM - 11:00 AM",
+      "Friday": "2:00 PM - 4:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/women/39.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Prof. Vikram Singh",
+    "specializations": ["Political Science", "International Relations"],
+    "qualifications": ["Ph.D. in Political Science", "M.A. in International Relations"],
+    "research": ["Diplomacy studies", "Conflict resolution"],
+    "research_papers": [
+      {
+        "title": "Conflict Resolution Strategies in Diplomacy",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/13569775.2020.1729123"
+      },
+      {
+        "title": "International Relations Theories",
+        "link": "https://journals.sagepub.com/doi/10.1177/00472875211015205"
+      }
+    ],
+    "contact": {"email": "vikram.singh@university.edu", "phone": "+91-9876544007"},
+    "office": "Room 225, Dept. of Political Science, University of Patiala",
+    "availability": {
+      "Monday": "3:00 PM - 5:00 PM",
+      "Wednesday": "3:00 PM - 5:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Pooja Malhotra",
+    "specializations": ["Sociology", "Gender Studies"],
+    "qualifications": ["Ph.D. in Sociology", "M.A. in Gender Studies"],
+    "research": ["Gender inequality", "Social stratification"],
+    "research_papers": [
+      {
+        "title": "Gender Inequality in Modern Societies",
+        "link": "https://www.jstor.org/stable/12345678"
+      },
+      {
+        "title": "Social Stratification and Mobility",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/00380253.2019.1572978"
+      }
+    ],
+    "contact": {"email": "pooja.malhotra@university.edu", "phone": "+91-9876544118"},
+    "office": "Room 320, Dept. of Sociology, University of Patiala",
+    "availability": {
+      "Tuesday": "1:00 PM - 3:00 PM",
+      "Thursday": "1:00 PM - 3:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/women/55.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Prof. Rahul Desai",
+    "specializations": ["Philosophy", "Ethics"],
+    "qualifications": ["Ph.D. in Philosophy", "M.A. in Ethics"],
+    "research": ["Moral philosophy", "Existentialism"],
+    "research_papers": [
+      {
+        "title": "Existentialism and Human Freedom",
+        "link": "https://www.jstor.org/stable/23009233"
+      },
+      {
+        "title": "Ethics in Modern Philosophy",
+        "link": "https://link.springer.com/article/10.1007/s11098-020-01452-7"
+      }
+    ],
+    "contact": {"email": "rahul.desai@university.edu", "phone": "+91-9876544229"},
+    "office": "Room 115, Dept. of Philosophy, University of Patiala",
+    "availability": {
+      "Monday": "10:00 AM - 12:00 PM",
+      "Wednesday": "10:00 AM - 12:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/men/58.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Sunita Roy",
+    "specializations": ["Environmental Science", "Sustainability"],
+    "qualifications": ["Ph.D. in Environmental Science", "M.Sc. in Ecology"],
+    "research": ["Climate change impacts", "Sustainable agriculture"],
+    "research_papers": [
+      {
+        "title": "Sustainable Practices in Agriculture",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1470160X20306730"
+      },
+      {
+        "title": "Climate Change and Ecosystem Responses",
+        "link": "https://link.springer.com/article/10.1007/s10584-020-02747-5"
+      }
+    ],
+    "contact": {"email": "sunita.roy@university.edu", "phone": "+91-9876544330"},
+    "office": "Room 145, Dept. of Environmental Science, University of Patiala",
+    "availability": {
+      "Tuesday": "2:00 PM - 4:00 PM",
+      "Thursday": "10:00 AM - 12:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/women/42.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Prof. Karan Joshi",
+    "specializations": ["Mechanical Engineering", "Robotics"],
+    "qualifications": ["Ph.D. in Mechanical Engineering", "M.Tech in Robotics"],
+    "research": ["Robotic automation", "AI in manufacturing"],
+    "research_papers": [
+      {
+        "title": "Robotics in Modern Manufacturing",
+        "link": "https://ieeexplore.ieee.org/document/1234567"
+      },
+      {
+        "title": "AI Applications in Robotics",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0921889019307925"
+      }
+    ],
+    "contact": {"email": "karan.joshi@university.edu", "phone": "+91-9876544441"},
+    "office": "Room 350, Dept. of Mechanical Engineering, University of Patiala",
+    "availability": {
+      "Monday": "9:00 AM - 11:00 AM",
+      "Wednesday": "9:00 AM - 11:00 AM"
+    },
+    "image": "https://randomuser.me/api/portraits/men/18.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Meera Kapoor",
+    "specializations": ["Education", "Curriculum Development"],
+    "qualifications": ["Ph.D. in Education", "M.Ed."],
+    "research": ["Curriculum innovation", "Teaching methodologies"],
+    "research_papers": [
+      {
+        "title": "Innovations in Curriculum Design",
+        "link": "https://www.tandfonline.com/doi/full/10.1080/1359866X.2020.1733588"
+      },
+      {
+        "title": "Modern Teaching Techniques",
+        "link": "https://journals.sagepub.com/doi/10.1177/0022487120930733"
+      }
+    ],
+    "contact": {"email": "meera.kapoor@university.edu", "phone": "+91-9876544552"},
+    "office": "Room 225, Dept. of Education, University of Patiala",
+    "availability": {
+      "Tuesday": "9:00 AM - 11:00 AM",
+      "Thursday": "9:00 AM - 11:00 AM"
+    },
+    "image": "https://randomuser.me/api/portraits/women/28.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Prof. Hari Singh",
+    "specializations": ["Civil Engineering", "Structural Engineering"],
+    "qualifications": ["Ph.D. in Civil Engineering", "M.Tech in Structural Engineering"],
+    "research": ["Earthquake-resistant structures", "Building materials"],
+    "research_papers": [
+      {
+        "title": "Seismic Design of Structures",
+        "link": "https://ascelibrary.org/doi/10.1061/(ASCE)ST.1943-541X.0002389"
+      },
+      {
+        "title": "Innovations in Building Materials",
+        "link": "https://www.sciencedirect.com/science/article/pii/S095006181831348X"
+      }
+    ],
+    "contact": {"email": "hari.singh@university.edu", "phone": "+91-9876544663"},
+    "office": "Room 360, Dept. of Civil Engineering, University of Patiala",
+    "availability": {
+      "Monday": "11:00 AM - 1:00 PM",
+      "Wednesday": "11:00 AM - 1:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/men/30.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Dr. Neha Chawla",
+    "specializations": ["Psychology", "Neuroscience"],
+    "qualifications": ["Ph.D. in Neuroscience", "M.Sc. in Psychology"],
+    "research": ["Neural mechanisms of memory", "Cognitive psychology"],
+    "research_papers": [
+      {
+        "title": "Neural Basis of Memory Formation",
+        "link": "https://www.frontiersin.org/articles/10.3389/fnins.2020.543929/full"
+      },
+      {
+        "title": "Cognitive Processes in Psychology",
+        "link": "https://journals.sagepub.com/doi/10.1177/0956797619897661"
+      }
+    ],
+    "contact": {"email": "neha.chawla@university.edu", "phone": "+91-9876544774"},
+    "office": "Room 312, Dept. of Psychology, University of Patiala",
+    "availability": {
+      "Tuesday": "10:00 AM - 12:00 PM",
+      "Thursday": "10:00 AM - 12:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/women/32.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Prof. Manish Agarwal",
+    "specializations": ["Electrical Engineering", "Signal Processing"],
+    "qualifications": ["Ph.D. in Electrical Engineering", "M.Tech in Signal Processing"],
+    "research": ["Digital signal processing", "Communication systems"],
+    "research_papers": [
+      {
+        "title": "Advances in Digital Signal Processing",
+        "link": "https://ieeexplore.ieee.org/document/87654321"
+      },
+      {
+        "title": "Modern Communication Techniques",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1389128619304671"
+      }
+    ],
+    "contact": {"email": "manish.agarwal@university.edu", "phone": "+91-9876544885"},
+    "office": "Room 280, Dept. of Electrical Engineering, University of Patiala",
+    "availability": {
+      "Monday": "9:00 AM - 11:00 AM",
+      "Wednesday": "9:00 AM - 11:00 AM"
+    },
+    "image": "https://randomuser.me/api/portraits/men/40.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Dr. Sheetal Reddy",
+    "specializations": ["Pharmaceutical Sciences", "Pharmacology"],
+    "qualifications": ["Ph.D. in Pharmacology", "M.Pharm."],
+    "research": ["Drug delivery systems", "Pharmacokinetics"],
+    "research_papers": [
+      {
+        "title": "Advancements in Drug Delivery",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0169409X20306730"
+      },
+      {
+        "title": "Pharmacokinetics in Drug Development",
+        "link": "https://www.journalofpharmacology.org/article/S0022354920306720"
+      }
+    ],
+    "contact": {"email": "sheetal.reddy@university.edu", "phone": "+91-9876544996"},
+    "office": "Room 145, Dept. of Pharmaceutical Sciences, University of Patiala",
+    "availability": {
+      "Tuesday": "11:00 AM - 1:00 PM",
+      "Thursday": "11:00 AM - 1:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/women/26.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Prof. Rajiv Sharma",
+    "specializations": ["Business Administration", "Marketing"],
+    "qualifications": ["Ph.D. in Business Administration", "MBA"],
+    "research": ["Consumer behavior", "Digital marketing strategies"],
+    "research_papers": [
+      {
+        "title": "Digital Marketing Trends in 2025",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0969698920306732"
+      },
+      {
+        "title": "Analyzing Consumer Behavior Online",
+        "link": "https://www.journals.elsevier.com/journal-of-business-research"
+      }
+    ],
+    "contact": {"email": "rajiv.sharma@university.edu", "phone": "+91-9876545007"},
+    "office": "Room 210, Dept. of Business, University of Patiala",
+    "availability": {
+      "Monday": "1:00 PM - 3:00 PM",
+      "Wednesday": "1:00 PM - 3:00 PM"
+    },
+    "image": "https://randomuser.me/api/portraits/men/41.jpg"
+  }
+]
