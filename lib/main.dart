@@ -19,4 +19,4 @@ class MainApp extends StatelessWidget {
       home: SplashScreen(),
     );
   }
-}
+} 
